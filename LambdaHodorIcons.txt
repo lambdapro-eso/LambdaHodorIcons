@@ -1,8 +1,8 @@
 ## Title: LambdaHodorIcons
-## Version: 0.0.1
+## Version: 0.0.2
 ## Author: |cFFFF00LambdaPro|r
 ## APIVersion: 101032 101033
-## AddOnVersion: 1
+## AddOnVersion: 2
 ## SavedVariables: LambdaHodorIconsSV
 ## DependsOn: HodorReflexes>=1831
 
